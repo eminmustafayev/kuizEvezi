@@ -1,0 +1,14 @@
+C:\Users\II novbe\source\repos\kuiz\kuiz\bin\Debug\net8.0\kuiz.exe
+C:\Users\II novbe\source\repos\kuiz\kuiz\bin\Debug\net8.0\kuiz.deps.json
+C:\Users\II novbe\source\repos\kuiz\kuiz\bin\Debug\net8.0\kuiz.runtimeconfig.json
+C:\Users\II novbe\source\repos\kuiz\kuiz\bin\Debug\net8.0\kuiz.dll
+C:\Users\II novbe\source\repos\kuiz\kuiz\bin\Debug\net8.0\kuiz.pdb
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.dll
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\refint\kuiz.dll
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.pdb
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\kuiz.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\kuiz\kuiz\obj\Debug\net8.0\ref\kuiz.dll
